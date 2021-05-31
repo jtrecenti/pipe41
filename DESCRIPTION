@@ -7,7 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "julio.trecenti@gmail.com",
            comment = c(ORCID = "0000-0002-1680-6389"))
-Description: What the package does (one paragraph).
+Description: Addin to insert the new pipe. This way you can have different
+  shortcuts for the magrittr's pipe and the new R 4.1 pipe.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -15,3 +16,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     rstudioapi
+URL: https://github.com/jtrecenti/pipe41
+BugReports: https://github.com/jtrecenti/pipe41/issues
