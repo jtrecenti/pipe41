@@ -1,0 +1,3 @@
+insertPipeAddin <- function() {
+  rstudioapi::insertText(" |> ")
+}
